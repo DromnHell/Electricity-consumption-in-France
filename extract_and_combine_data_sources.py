@@ -1,4 +1,4 @@
-from static_strings import *
+from static_strings_for_data_extraction import *
 import requests
 import zipfile
 import io
