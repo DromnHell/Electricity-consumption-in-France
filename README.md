@@ -77,6 +77,10 @@ Usage Instructions (in this order):
 
 The notebook ```various_check.ipynb``` contains only small analyses and checks.
 
+## Results
+
+See the PDF "Electricity consumption in France". Figures and graphs in English but texts in French.
+
 ## Contact
 
 If you have any questions or suggestions, please contact :
